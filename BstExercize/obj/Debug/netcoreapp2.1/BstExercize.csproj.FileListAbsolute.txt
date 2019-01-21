@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\bin\Debug\netcoreapp2.1\BstExercize.deps.json
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\bin\Debug\netcoreapp2.1\BstExercize.runtimeconfig.json
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\bin\Debug\netcoreapp2.1\BstExercize.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\bin\Debug\netcoreapp2.1\BstExercize.dll
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\bin\Debug\netcoreapp2.1\BstExercize.pdb
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\obj\Debug\netcoreapp2.1\BstExercize.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\obj\Debug\netcoreapp2.1\BstExercize.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\obj\Debug\netcoreapp2.1\BstExercize.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\obj\Debug\netcoreapp2.1\BstExercize.dll
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\obj\Debug\netcoreapp2.1\BstExercize.pdb
+C:\Users\Kosta\source\repos\BstExercize\BstExercize\obj\Debug\netcoreapp2.1\BstExercize.csprojAssemblyReference.cache
